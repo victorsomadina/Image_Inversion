@@ -4,7 +4,7 @@ Nothing much, this is just a program that collects or reads user input of an ima
 ### For example: 
 I have this heart image below.
 
-![C:\Users\hp\Pictures\heart2.png]
+[C:\Users\hp\Pictures\heart2.png]
 
 And after I run the program on the image above, we have something like this below
 
