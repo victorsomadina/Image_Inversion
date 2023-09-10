@@ -2,7 +2,7 @@
 
 Nothing much, this is just a program that collects or reads user input of an image file, inverts the image, and saves the image to a file path specified by the user also. 
 
-**Check the Python .ipynb code file** 
+**Check the Python .ipynb code file** [here](https://github.com/victorsomadina/Image_Inversion/blob/main/Main%20Image%20Inversion%20File.ipynb)
 ### For example: 
 I have this heart image below.
 
