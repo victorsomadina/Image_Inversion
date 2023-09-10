@@ -1,7 +1,8 @@
-# Image_Inversion Program
+# Image Inversion Program
 
 Nothing much, this is just a program that collects or reads user input of an image file, inverts the image, and saves the image to a file path specified by the user also. 
-Check the Python .ipynb code file 
+
+**Check the Python .ipynb code file** 
 ### For example: 
 I have this heart image below.
 
